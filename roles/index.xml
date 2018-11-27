@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roles on Peter Clarke info</title>
-    <link>www.peterclarke.info/roles/</link>
+    <link>https://peterforty9.github.io/peterclarkeinfosite/roles/</link>
     <description>Recent content in Roles on Peter Clarke info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.peterclarke.info/roles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://peterforty9.github.io/peterclarkeinfosite/roles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Business Analyst</title>
-      <link>www.peterclarke.info/roles/business-analyst/</link>
+      <link>https://peterforty9.github.io/peterclarkeinfosite/roles/business-analyst/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.peterclarke.info/roles/business-analyst/</guid>
+      <guid>https://peterforty9.github.io/peterclarkeinfosite/roles/business-analyst/</guid>
       <description></description>
     </item>
     

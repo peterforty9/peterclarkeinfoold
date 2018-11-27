@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compliance on Peter Clarke info</title>
+    <link>www.peterclarke.info/areas/compliance/</link>
+    <description>Recent content in Compliance on Peter Clarke info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="www.peterclarke.info/areas/compliance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Network data sharing</title>
+      <link>www.peterclarke.info/2018/07/social-network-data-sharing/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.peterclarke.info/2018/07/social-network-data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HR GDPR compliance</title>
+      <link>www.peterclarke.info/2018/05/hr-gdpr-compliance/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.peterclarke.info/2018/05/hr-gdpr-compliance/</guid>
+      <description> Assessed over 50 processes in terms of security of data transfer and storage and supplier compliance to identify GDPR risks and helped to give clarity to the state of play. Worked closely with the Compliance team and guided them in best practice for documenting processes  </description>
+    </item>
+    
+  </channel>
+</rss>

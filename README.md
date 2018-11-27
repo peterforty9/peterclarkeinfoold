@@ -1,2 +1,0 @@
-# peterclarkeinfo
-Peter Clarke CV

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://peterforty9.github.io/2018/09/static-website-management/</loc>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://peterforty9.github.io/2018/07/social-network-data-sharing/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://peterforty9.github.io/roles/business-analyst/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,12 +49,18 @@
   </url>
   
   <url>
+    <loc>https://peterforty9.github.io/tags/cms/</loc>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://peterforty9.github.io/contact/</loc>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/roles/contract/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,14 +77,26 @@
   </url>
   
   <url>
+    <loc>https://peterforty9.github.io/areas/digital-publishing/</loc>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://peterforty9.github.io/purposes/fact-finding/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/areas/finance/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peterforty9.github.io/organisations/financial-times/</loc>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,24 +125,25 @@
   
   <url>
     <loc>https://peterforty9.github.io/industries/media/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/organisations/</loc>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/post/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,19 +167,19 @@
   
   <url>
     <loc>https://peterforty9.github.io/purposes/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/purposes/requirement-gathering/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/roles/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,7 +197,7 @@
   
   <url>
     <loc>https://peterforty9.github.io/tags/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,7 +215,7 @@
   
   <url>
     <loc>https://peterforty9.github.io/skills/website-analysis/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-26T10:04:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   

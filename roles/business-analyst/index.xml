@@ -6,10 +6,19 @@
     <description>Recent content in Business Analyst on Peter Clarke info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 10:04:12 +0000</lastBuildDate>
     
 	<atom:link href="https://peterforty9.github.io/roles/business-analyst/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Static website management</title>
+      <link>https://peterforty9.github.io/2018/09/static-website-management/</link>
+      <pubDate>Wed, 26 Sep 2018 10:04:12 +0000</pubDate>
+      
+      <guid>https://peterforty9.github.io/2018/09/static-website-management/</guid>
+      <description> Interviewed multiple publishing teams to determine how they publish and manage static sites Captured CMS requirements Identified areas of cross-business collaboration with similar publishing requirements  </description>
+    </item>
     
     <item>
       <title>Social Network data sharing</title>

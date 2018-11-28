@@ -60,20 +60,20 @@
   </url>
   
   <url>
-    <loc>https://peterforty9.github.io/areas/fact-finding/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://peterforty9.github.io/purposes/fact-finding/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://peterforty9.github.io/areas/fact-finding/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://peterforty9.github.io/tags/gdpr/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,6 +85,12 @@
   
   <url>
     <loc>https://peterforty9.github.io/industries/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peterforty9.github.io/tags/marketing-tags/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,12 +167,24 @@
   
   <url>
     <loc>https://peterforty9.github.io/tags/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peterforty9.github.io/organisations/the-financial-times/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peterforty9.github.io/tags/tracking-pixels/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peterforty9.github.io/skills/website-analysis/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

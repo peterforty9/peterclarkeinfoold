@@ -54,6 +54,12 @@
   </url>
   
   <url>
+    <loc>https://peterforty9.github.io/skills/data-mapping/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://peterforty9.github.io/areas/digital-marketing/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -66,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://peterforty9.github.io/areas/fact-finding/</loc>
+    <loc>https://peterforty9.github.io/areas/finance/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -142,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://peterforty9.github.io/skills/requirement-gathering/</loc>
+    <loc>https://peterforty9.github.io/purposes/requirement-gathering/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -156,12 +162,6 @@
   <url>
     <loc>https://peterforty9.github.io/skills/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://peterforty9.github.io/skills/stakeholder-interviews/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

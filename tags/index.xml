@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Peter Clarke info</title>
-    <link>https://peterforty9.github.io/tags/</link>
+    <link>http://peterclarke.info/tags/</link>
     <description>Recent content in Tags on Peter Clarke info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Sep 2018 10:04:12 +0000</lastBuildDate>
     
-	<atom:link href="https://peterforty9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://peterclarke.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cms</title>
-      <link>https://peterforty9.github.io/tags/cms/</link>
+      <link>http://peterclarke.info/tags/cms/</link>
       <pubDate>Wed, 26 Sep 2018 10:04:12 +0000</pubDate>
       
-      <guid>https://peterforty9.github.io/tags/cms/</guid>
+      <guid>http://peterclarke.info/tags/cms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gdpr</title>
-      <link>https://peterforty9.github.io/tags/gdpr/</link>
+      <link>http://peterclarke.info/tags/gdpr/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://peterforty9.github.io/tags/gdpr/</guid>
+      <guid>http://peterclarke.info/tags/gdpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marketing Tags</title>
-      <link>https://peterforty9.github.io/tags/marketing-tags/</link>
+      <link>http://peterclarke.info/tags/marketing-tags/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://peterforty9.github.io/tags/marketing-tags/</guid>
+      <guid>http://peterclarke.info/tags/marketing-tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sales Commissions</title>
-      <link>https://peterforty9.github.io/tags/sales-commissions/</link>
+      <link>http://peterclarke.info/tags/sales-commissions/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://peterforty9.github.io/tags/sales-commissions/</guid>
+      <guid>http://peterclarke.info/tags/sales-commissions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking Pixels</title>
-      <link>https://peterforty9.github.io/tags/tracking-pixels/</link>
+      <link>http://peterclarke.info/tags/tracking-pixels/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://peterforty9.github.io/tags/tracking-pixels/</guid>
+      <guid>http://peterclarke.info/tags/tracking-pixels/</guid>
       <description></description>
     </item>
     

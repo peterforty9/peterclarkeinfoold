@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process Engineering on Peter Clarke info</title>
+    <link>https://peterforty9.github.io/purposes/process-engineering/</link>
+    <description>Recent content in Process Engineering on Peter Clarke info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://peterforty9.github.io/purposes/process-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HR GDPR compliance</title>
+      <link>https://peterforty9.github.io/2018/05/hr-gdpr-compliance/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterforty9.github.io/2018/05/hr-gdpr-compliance/</guid>
+      <description> Interviewed multiple stakeholders to assess over 50 processes to identify GDPR risks in security of data transfer &amp;amp;storage and supplier compliance. Worked closely with the Legal team and guided them in best practice for documenting processes Re-engineered the internal recruitment process  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Requirement Gathering on Peter Clarke info</title>
+    <link>https://peterforty9.github.io/skills/requirement-gathering/</link>
+    <description>Recent content in Requirement Gathering on Peter Clarke info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://peterforty9.github.io/skills/requirement-gathering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sales commission system analysis</title>
+      <link>https://peterforty9.github.io/2018/04/sales-commission-system-analysis/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterforty9.github.io/2018/04/sales-commission-system-analysis/</guid>
+      <description> Conducted interviews to assess the extent of work completed and highlight areas of concern Identified missing requirements and restored business confidence in the project by producing several alternative action plans for completing the project  </description>
+    </item>
+    
+  </channel>
+</rss>

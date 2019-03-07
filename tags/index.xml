@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Peter Clarke info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Sep 2018 10:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peterforty9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile</title>
+      <link>https://peterforty9.github.io/tags/agile/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterforty9.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cms</title>
@@ -44,6 +53,15 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://peterforty9.github.io/tags/sales-commissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://peterforty9.github.io/tags/software-engineering/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterforty9.github.io/tags/software-engineering/</guid>
       <description></description>
     </item>
     
